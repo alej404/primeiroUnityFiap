@@ -1,0 +1,345 @@
+fileFormatVersion: 2
+guid: 57829e9823f433c49852a082b4f9f636
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: spritesheet_default_0
+    21300002: spritesheet_default_1
+    21300004: spritesheet_default_2
+    21300006: spritesheet_default_3
+    21300008: spritesheet_default_4
+    21300010: spritesheet_default_5
+    21300012: spritesheet_default_6
+    21300014: spritesheet_default_7
+    21300016: spritesheet_default_8
+    21300018: spritesheet_default_9
+    21300020: spritesheet_default_10
+    21300022: spritesheet_default_11
+    21300024: spritesheet_default_12
+    21300026: spritesheet_default_13
+    21300028: spritesheet_default_14
+    21300030: spritesheet_default_15
+    21300032: spritesheet_default_16
+    21300034: spritesheet_default_17
+    21300036: spritesheet_default_18
+    21300038: spritesheet_default_19
+    21300040: spritesheet_default_20
+    21300042: spritesheet_default_21
+    21300044: spritesheet_default_22
+    21300046: spritesheet_default_23
+    21300048: spritesheet_default_24
+    21300050: spritesheet_default_25
+    21300052: spritesheet_default_26
+    21300054: spritesheet_default_27
+    21300056: spritesheet_default_28
+    21300058: spritesheet_default_29
+    21300060: spritesheet_default_30
+    21300062: spritesheet_default_31
+    21300064: spritesheet_default_32
+    21300066: spritesheet_default_33
+    21300068: spritesheet_default_34
+    21300070: spritesheet_default_35
+    21300072: spritesheet_default_36
+    21300074: spritesheet_default_37
+    21300076: spritesheet_default_38
+    21300078: spritesheet_default_39
+    21300080: spritesheet_default_40
+    21300082: spritesheet_default_41
+    21300084: spritesheet_default_42
+    21300086: spritesheet_default_43
+    21300088: spritesheet_default_44
+    21300090: spritesheet_default_45
+    21300092: spritesheet_default_46
+    21300094: spritesheet_default_47
+    21300096: spritesheet_default_48
+    21300098: spritesheet_default_49
+    21300100: spritesheet_default_50
+    21300102: spritesheet_default_51
+    21300104: spritesheet_default_52
+    21300106: spritesheet_default_53
+    21300108: spritesheet_default_54
+    21300110: spritesheet_default_55
+    21300112: spritesheet_default_56
+    21300114: spritesheet_default_57
+    21300116: spritesheet_default_58
+    21300118: spritesheet_default_59
+    21300120: spritesheet_default_60
+    21300122: spritesheet_default_61
+    21300124: spritesheet_default_62
+    21300126: spritesheet_default_63
+    21300128: spritesheet_default_64
+    21300130: spritesheet_default_65
+    21300132: spritesheet_default_66
+    21300134: spritesheet_default_67
+    21300136: spritesheet_default_68
+    21300138: spritesheet_default_69
+    21300140: spritesheet_default_70
+    21300142: spritesheet_default_71
+    21300144: spritesheet_default_72
+    21300146: spritesheet_default_73
+    21300148: spritesheet_default_74
+    21300150: spritesheet_default_75
+    21300152: spritesheet_default_76
+    21300154: spritesheet_default_77
+    21300156: spritesheet_default_78
+    21300158: spritesheet_default_79
+    21300160: spritesheet_default_80
+    21300162: spritesheet_default_81
+    21300164: spritesheet_default_82
+    21300166: spritesheet_default_83
+    21300168: spritesheet_default_84
+    21300170: spritesheet_default_85
+    21300172: spritesheet_default_86
+    21300174: spritesheet_default_87
+    21300176: spritesheet_default_88
+    21300178: spritesheet_default_89
+    21300180: spritesheet_default_90
+    21300182: spritesheet_default_91
+    21300184: spritesheet_default_92
+    21300186: spritesheet_default_93
+    21300188: spritesheet_default_94
+    21300190: spritesheet_default_95
+    21300192: spritesheet_default_96
+    21300194: spritesheet_default_97
+    21300196: spritesheet_default_98
+    21300198: spritesheet_default_99
+    21300200: spritesheet_default_100
+    21300202: spritesheet_default_101
+    21300204: spritesheet_default_102
+    21300206: spritesheet_default_103
+    21300208: spritesheet_default_104
+    21300210: spritesheet_default_105
+    21300212: spritesheet_default_106
+    21300214: spritesheet_default_107
+    21300216: spritesheet_default_108
+    21300218: spritesheet_default_109
+    21300220: spritesheet_default_110
+    21300222: spritesheet_default_111
+    21300224: spritesheet_default_112
+    21300226: spritesheet_default_113
+    21300228: spritesheet_default_114
+    21300230: spritesheet_default_115
+    21300232: spritesheet_default_116
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 128
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: spritesheet_default_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f325a24ddcdf3b498fe15c05666e808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_default_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 128
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 2, z: 0, w: 1}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8689e952de2cf3f4795bca32e5416e09
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_default_23
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd1367363fad0842911cc8fec5542b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_default_1
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 286
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e34ca42592c08344a789e8ad633e71b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_default_2
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 633
+        width: 15
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9ac5c261d2fc104988760f2bc0852ab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_default_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 279
+        width: 44
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32eccd4564e481c4c81bd9b6fd864154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: spritesheet_default_4
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 323
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe6c809890da9674a9b5b19997bd77fe
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f5cef210b0a177f4da211cdeb3d83af1
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

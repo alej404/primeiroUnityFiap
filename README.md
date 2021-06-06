@@ -1,8 +1,10 @@
-<h1 align="center">Nome do Projeto</h1>
+<h1 align="center">Primeiro Jogo</h1>
 
-<p align="center">Escrever uma breve descrição</p>
+<p align="center">Este repositorio foi criado com o proposito de mostrar meu primeiro projeto para ver o quanto irei evoluir até o fim do ano</p>
 
-<h1 align="center">
-    <a href="https://pt-br.reactjs.org/">🔗 React</a>
-</h1>
-<p align="center">🚀 lib para construir interfaces do usuário com componentes reutilizáveis</p>
+<p align="center">
+ <a href="#objetivo">Criar algo funcional</a> •
+ <a href="#tecnologias">C#</a> • 
+ <a href="#contribuicao">alej404</a> • 
+ <a href="#autor">alej404</a>
+</p>
